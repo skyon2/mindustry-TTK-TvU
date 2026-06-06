@@ -2,7 +2,7 @@
 
 Hello! I'm Skyon.
 
-This spreadsheet contains benchmark results showing how long Mindustry units survive against different turrets.
+This spreadsheet contains benchmark results showing Time-to-kill (TTK) benchmark data for Mindustry turrets against units.
 
 **Important:** These values are **survival time (seconds)**, not DPS.
 
