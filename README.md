@@ -37,3 +37,6 @@ This spreadsheet contains Time-to-Kill (TTK) benchmark data for Mindustry turret
 - If an air unit is falling but still alive, the timer does not stop until the unit reaches the ground.
 - Prediction logic is not perfectly accurate, especially for slow-firing turrets such as Scathe.
 - **Serpulo only:** Oil Tsunami/status combinations are not included because the number of Oil Tsunamis significantly affects the results.
+
+##Google spreadsheet 
+https://docs.google.com/spreadsheets/d/19D8mmAIu24tsny3t8cshOGoddnGeE48Z62g4NsSVkWg/edit?usp=drivesdk
