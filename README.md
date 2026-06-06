@@ -6,6 +6,8 @@ This spreadsheet contains Time-to-Kill (TTK) benchmark data for Mindustry turret
 
 **Important:** These values are **survival time (seconds)**, not DPS.
 
+![description](example images/Screenshot_2026-06-06-14-28-27-547_com.google.android.apps.docs.editors.sheets-edit.jpg)
+
 ## Methodology
 
 1. All tests are performed using World Processors.
